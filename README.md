@@ -55,7 +55,7 @@ We have included three Azure DevOps "challenges" over the course the workshop.  
             | SP_APP_ID | `<Application (client) ID from above>` |
             | SP_APP_SECRET | `<Client Secret Value from above>` |
             | SUBSCRIPTION_ID | `<Azure Subscription ID>` |
-            | TENANT_ID | `<Directory tenant) ID from above>` |
+            | TENANT_ID | `<Directory (tenant) ID from above>` |
             | TRAIN_SCRIPT_PATH | `train.py` |
             | TRAINING_PIPELINE_NAME | `training-pipeline` |
 1. Create an Azure Resource Manager Service Connection ([docs](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints?view=azure-devops&tabs=yaml#create-a-service-connection))
